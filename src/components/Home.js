@@ -23,7 +23,7 @@ const Home = () => {
 						Hi I'm  Nathan.
 					</h1>
 					<p>
-						I have a passion to use design as a gateway to translate complex problems into engaging experiences! Previous designing at a healthcare startup. I am looking for internships opportunities that can challenge myself to tackle pain-points at a larger scale.
+						I have a passion to solve complex problems with technology and design! Previous a fullstack developer at an award-winning design studio, I am now working on a website builder startup for Realtors.
 					</p>
 				</div>
 			</header>

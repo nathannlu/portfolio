@@ -4,9 +4,7 @@ import Home from './components/Home';
 
 const App = () => {
   return (
-		<Router>
-			<Route exact path="/" component={Home} />
-		</Router>
+		<Home />
   );
 }
 
