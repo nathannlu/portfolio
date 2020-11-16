@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Realtor Website Builder",
+		"subtitle": "Modern Web Application",
+		"description": "While working at Castle Labs, I discovered a competitor (Realty Ninja) that used old tech, had complicated user experience, and mediocre marketing. I believe I can build a more user friendly product that delivers higher quality websites and market it aggressively. So far, I’ve completed the authentication, basic features of the website builder such as saving/loading progress, and adding, deleting, editing templates. I am currently working to add more website templates and polishing the interface and experience. ",
+		"link": "http://app.agentsquare.ca/"
+	},
+	{
+		"title": "Automating Online Dating",
+		"subtitle": "Python Script",
+		"description": "Wanted to explore and see if I’d enjoy machine learning. Isolated faces using Haar’s Cascade algorithm, and trained a classifier with Keras using the SCUT-FBP5500 database. Next step is to solve the case where there are more than one person in a photo by using Haar’s Cascade to find which one appears the most. After that I plan on researching how to implement a de-filtering to pictures to improve accuracy. Would also love to improve the rater by rating with facial measurements as opposed to classification.",
+		"link": "https://github.com/nathannlu/automated-online-dating"
+	},
+	{
+		"title": "Teamtown",
+		"subtitle": "Modern Web Application",
+		"description": "Teamtown’s core mission is to provide businesses a selection of subscription based team member add-ons at an affordable cost. Our initial offering will be unlimited graphic design at a monthly flat fee. We offer clients a designated professional designer that will handle unlimited submissions and revisions per month, with each individual submission having a 1-2 day turnaround.",
+		"link": "https://www.teamtown.co/"
+	},
+	{
+		"title": "UBC Alert",
+		"subtitle": "Modern Web Application",
+		"description": "UBC Alert is a simple website for students to help students get into courses that are full. Students submit their course information on our website and our backend script will check UBC's servers every 5 minutes to see if the entered course has open seats. Our application will then notify the student via text.",
+		"link": "https://www.ubc-alert.ca/"
+	}
+]
